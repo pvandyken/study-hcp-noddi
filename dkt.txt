@@ -1,0 +1,140 @@
+L_bankssts
+1 25 100 40 255
+L_caudalanteriorcingulate
+2 125 100 160 255
+L_caudalmiddlefrontal
+3 100 25 0 255
+L_corpuscallosum
+4 120 70 50 255
+L_cuneus
+5 220 20 100 255
+L_entorhinal
+6 220 20 10 255
+L_fusiform
+7 180 220 140 255
+L_inferiorparietal
+8 220 60 220 255
+L_inferiortemporal
+9 180 40 120 255
+L_isthmuscingulate
+10 140 20 140 255
+L_lateraloccipital
+11 20 30 140 255
+L_lateralorbitofrontal
+12 35 75 50 255
+L_lingual
+13 225 140 140 255
+L_medialorbitofrontal
+14 200 35 75 255
+L_middletemporal
+15 160 100 50 255
+L_parahippocampal
+16 20 220 60 255
+L_paracentral
+17 60 220 60 255
+L_parsopercularis
+18 220 180 140 255
+L_parsorbitalis
+19 20 100 50 255
+L_parstriangularis
+20 220 60 20 255
+L_pericalcarine
+21 120 100 60 255
+L_postcentral
+22 220 20 20 255
+L_posteriorcingulate
+23 220 180 220 255
+L_precentral
+24 60 20 220 255
+L_precuneus
+25 160 140 180 255
+L_rostralanteriorcingulate
+26 80 20 140 255
+L_rostralmiddlefrontal
+27 75 50 125 255
+L_superiorfrontal
+28 20 220 160 255
+L_superiorparietal
+29 20 180 140 255
+L_superiortemporal
+30 140 220 220 255
+L_supramarginal
+31 80 160 20 255
+L_frontalpole
+32 100 0 100 255
+L_temporalpole
+33 70 20 170 255
+L_transversetemporal
+34 150 150 200 255
+L_insula
+35 255 192 32 255
+R_bankssts
+36 25 100 40 255
+R_caudalanteriorcingulate
+37 125 100 160 255
+R_caudalmiddlefrontal
+38 100 25 0 255
+R_corpuscallosum
+39 120 70 50 255
+R_cuneus
+40 220 20 100 255
+R_entorhinal
+41 220 20 10 255
+R_fusiform
+42 180 220 140 255
+R_inferiorparietal
+43 220 60 220 255
+R_inferiortemporal
+44 180 40 120 255
+R_isthmuscingulate
+45 140 20 140 255
+R_lateraloccipital
+46 20 30 140 255
+R_lateralorbitofrontal
+47 35 75 50 255
+R_lingual
+48 225 140 140 255
+R_medialorbitofrontal
+49 200 35 75 255
+R_middletemporal
+50 160 100 50 255
+R_parahippocampal
+51 20 220 60 255
+R_paracentral
+52 60 220 60 255
+R_parsopercularis
+53 220 180 140 255
+R_parsorbitalis
+54 20 100 50 255
+R_parstriangularis
+55 220 60 20 255
+R_pericalcarine
+56 120 100 60 255
+R_postcentral
+57 220 20 20 255
+R_posteriorcingulate
+58 220 180 220 255
+R_precentral
+59 60 20 220 255
+R_precuneus
+60 160 140 180 255
+R_rostralanteriorcingulate
+61 80 20 140 255
+R_rostralmiddlefrontal
+62 75 50 125 255
+R_superiorfrontal
+63 20 220 160 255
+R_superiorparietal
+64 20 180 140 255
+R_superiortemporal
+65 140 220 220 255
+R_supramarginal
+66 80 160 20 255
+R_frontalpole
+67 100 0 100 255
+R_temporalpole
+68 70 20 170 255
+R_transversetemporal
+69 150 150 200 255
+R_insula
+70 255 192 32 255
