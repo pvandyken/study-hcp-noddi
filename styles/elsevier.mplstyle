@@ -1,0 +1,28 @@
+
+ytick.labelsize : 8
+ytick.color : "#101010"
+xtick.labelsize : 8
+xtick.color : "#101010"
+
+font.family : "helvetica"
+
+figure.titlesize : 12
+figure.titleweight : "bold"
+figure.edgecolor : "black"
+figure.dpi : 300
+
+axes.edgecolor : "#a0a0a0"
+axes.titlesize : 10
+axes.titleweight : "bold"
+axes.titlecolor : "#101010"
+axes.facecolor : "#f0f0f0"
+axes.labelsize : 10
+
+text.color : "#101010"
+axes.spines.top : False
+axes.spines.left : False
+axes.spines.bottom : False
+axes.spines.right : False
+
+legend.title_fontsize : 12
+legend.fontsize : 10
